@@ -5,7 +5,7 @@ Sales prediction models are used by businesses to forecast the future sales base
 
 Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines their predictions to improve accuracy and avoid overfitting. It works by randomly selecting a subset of features and observations and building decision trees based on these subsets. The predictions from these trees are then combined to form the final prediction.
 
-To build a sales prediction model using Random Forest, follow these steps:
+## To build a sales prediction model using Random Forest, follow these steps:
 
 Collect data: Collect historical sales data along with other relevant variables such as marketing spend, seasonality, promotions, etc.
 
